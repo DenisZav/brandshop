@@ -27,13 +27,13 @@
 
     <?php 
         $id = 1;
-        $name = 'Iphone';
+    //    $name = 'Iphone';
         $desc = 'Здесь описание для телефона Iphone';
         $img = '/images/goods/iphone.jpg';
         $price = '2000 $';
 
         echo $id . '<br>';
-         $name . '<br>';
+        echo $name . '<br>';
         echo $desc . '<br>';
         echo $img . '<br>';
         echo $price . '<br>'; 
